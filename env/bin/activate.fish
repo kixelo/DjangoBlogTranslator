@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/iqual/Testings_JUPYTER/APP9 Django and Boostrap blog/django_blog_translator/env"
+set -gx VIRTUAL_ENV "/home/iqual/Testings_JUPYTER/APP9 Django and Boostrap blog/django-blog-translator/env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
