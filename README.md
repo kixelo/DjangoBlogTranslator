@@ -36,6 +36,6 @@ Django
 App created according to the Udemy lesson by Ardit Sulce.
 ```
 ## App Images:
-<img src="images/BlogApp.png" /> <br>
+<img src="images/BlogApp1.png" /> <br>
 <img src="images/BlogApp2.png" /> <br>
 <img src="images/BlogApp3.png" />
